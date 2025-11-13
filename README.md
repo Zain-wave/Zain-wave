@@ -11,9 +11,8 @@
 ### 👋 Hello there!
 
 
-    Hola, mi nombre es Sebastian Vargas Ramirez, soy de Colombia, Actualmente aspiro a ser **Desarrollador Full Stack** y me apasiona crear soluciones eficientes, escalables y creativas a través del código.
-    ----------------------------------------------------------------------------------------------------------------
-    Hello, my name is Sebastian Vargas Ramirez, I am from Colombia, Currently an aspiring **Full Stack Developer** with a passion for creating efficient, scalable, and creative solutions through code.
+I'm **Sebastian Vargas Ramirez**, from **Colombia 🇨🇴**.  
+Currently an aspiring **Software Developer** with a passion for creating efficient, scalable, and creative solutions through code.
 
 
 ---
@@ -53,5 +52,5 @@
 
 ---
 
-⭐️ From [**AlyxZain**](https://github.com/Zain-wave)
+⭐️ From [**Zain-wave**](https://github.com/Zain-wave)
 
