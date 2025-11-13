@@ -1,7 +1,7 @@
 # :man_technologist: Sebastian Vargas Ramirez
 
 
-[[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-vargas-ramirez-46a38b23b/)]([https://www.linkedin.com/in/sebastian-vargas-ramirez-46a38b23b/](https://www.linkedin.com/in/sebastian-vargas-ramirez-46a38b23b/)): #
+[[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-vargas-ramirez-46a38b23b/)]([https://www.linkedin.com/in/sebastian-vargas-ramirez-46a38b23b/](https://www.linkedin.com/in/sebastian-vargas-ramirez-46a38b23b/))]: #
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573011920185)](https://api.whatsapp.com/send?phone=573011920185)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wrong_angel_v/)](https://www.instagram.com/wrong_angel_v/)
